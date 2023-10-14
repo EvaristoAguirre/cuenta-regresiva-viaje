@@ -52,16 +52,16 @@ function App() {
       <div className="fondo">
         
         <div className="grid-item">
-          <img src='../src/img/img1.jpeg' alt="" />
+          <img src='../public/img/img1.jpeg' alt="" />
         </div>
         <div className="grid-item">
-          <img src='../src/img/img2.jpeg' alt="" />
+          <img src='../public/img/img2.jpeg' alt="" />
         </div>
         <div className="grid-item">
-          <img src='../src/img/img3.jpeg' alt="" /> 
+          <img src='../public/img/img3.jpeg' alt="" /> 
         </div>
         <div className="grid-item">
-          <img src='../src/img/img4.jpeg' alt="" />
+          <img src='../public/img/img4.jpeg' alt="" />
         </div>
         <div className="grid-item item-contador">
             <h1>Dosh patas en... </h1>
@@ -71,16 +71,16 @@ function App() {
             </div>
         </div>
         <div className="grid-item">
-          <img src='../src/img/img5.jpeg' alt="" />
+          <img src='../public/img/img5.jpeg' alt="" />
         </div>
         <div className="grid-item">
-          <img src='../src/img/img6.jpeg' alt="" />
+          <img src='../public/img/img6.jpeg' alt="" />
         </div>
         <div className="grid-item">
-          <img src='../src/img/img7.jpeg' alt="" />
+          <img src='../public/img/img7.jpeg' alt="" />
         </div>
         <div className="grid-item">
-          <img src='../src/img/img8.jpeg' alt="" />
+          <img src='../public/img/img8.jpeg' alt="" />
         </div>
       </div>
     </div>
